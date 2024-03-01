@@ -69,6 +69,7 @@ body {
   font-family: var(--ff-base);
   font-size: 1.5rem;
   line-height: 1.7;
+  background-color: var(--clr-n-very-light-gray);
   color: var(--clr-n-transparent-white);
 }
 
